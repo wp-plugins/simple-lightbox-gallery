@@ -77,6 +77,7 @@ Using **[SLGF id=xx]** shortcode, you can publish lightbox gallery into any Page
 * Import/ Export Gallery
 * And many more..
 
+
 ### See All lightbox Demo. These 8 types of lightbox are available in pro version
 
 * Nivo Box [Demo](http://demo.weblizar.com/lightbox-slider-pro-demo/nivo-box-gallery/)
