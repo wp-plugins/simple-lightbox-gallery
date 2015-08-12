@@ -1,9 +1,9 @@
-=== Lightbox ===
+=== Lightbox Gallery ===
 Contributors: weblizar
 Donate link: http://weblizar.com/lightbox-slider-pro/
 Tags: colorbox, custom popup, display, exit lightbox, fancybox, gallery lightbox, image, image lightbox, image popup, images, img, jpg, jquery popup, light box, lightbox, lightbox gallery, lightbox photo, lightbox pop, lightbox popup, Lightbox slider, lightbox youtube, lightview, on click popup, onclick popup, open image, overlay, photo, photos, picture, pictures, plugin for gallery, png, pop-up, popup, popup box, popup image, popup images, popup lightbox, popup photo, popup video, popup window, popups, prettyphoto lightbox, quick popup, responsive lightbox, Responsive Popup, shadowbox, simple popup, slideshow lightbox, slimbox, style lightbox, thickbox, video lightbox, video popup, vimeo, wordpress image lightbox, wordpress lightbox, wordpress popup, wordpress youtube, WP Lightbox, youtube
 Requires at least: 3.5
-Tested up to: 4.2.3
+Tested up to: 4.3
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
